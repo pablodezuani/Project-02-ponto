@@ -28,7 +28,8 @@
     "react-native-screens": "^4.3.0",
     "react-native-splash-screen": "^3.3.0",
     "react-native-svg": "^15.9.0",
-    "react-native-vector-icons": "^10.2.0"
+    "react-native-vector-icons": "^10.2.0",
+    "expo-camera": "~16.0.8"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
